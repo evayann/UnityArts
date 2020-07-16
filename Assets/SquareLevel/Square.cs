@@ -85,7 +85,7 @@ public class Square : MonoBehaviour
         Vector3 pos = _go.transform.position;
         float x = pos.x + m_pnOfsset, y = pos.z + m_pnOfsset; // Correspond axe Z to Y and inflate each value by 10.
         _go.transform.localScale = new Vector3(1,
-            Mathf.PerlinNoise(x / m_width , y / m_height) * m_factor ,
+            Mathf.PerlinNoise(x / m_width , y / m_height) * m_factor,
             1);
     }
 
