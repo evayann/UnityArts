@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Arts.-1831593346.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Arts.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Background" t="Include">
+          <e p="BackgroundResize.cs" t="Include" />
+        </e>
+        <e p="Polygon" t="Include">
+          <e p="Polygon.cs" t="Include" />
+        </e>
+        <e p="SquareLevel" t="Include">
+          <e p="Square.cs" t="Include" />
+          <e p="SquareEditor.cs" t="Include" />
+        </e>
+        <e p="Waves" t="Include">
+          <e p="Animation.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
